@@ -3,7 +3,7 @@
 ## Result
 ![avatar](figure/result.png)
 
-## Send data betweem shaders
+## Send data between shaders
 ```
 #version 330 core
 layout (location = 0) in vec3 aPos;
