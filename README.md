@@ -27,3 +27,7 @@
 ### Color
 
 ![](figures/colors.png)
+
+### Basic lighting
+
+![](figures/basic-lighting.gif)
