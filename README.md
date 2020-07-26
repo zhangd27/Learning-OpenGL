@@ -43,3 +43,7 @@
 ### Light casters
 
 ![](figures/spotlight.png)
+
+### Multiple lights
+
+![](figures/multiplelight.png)
