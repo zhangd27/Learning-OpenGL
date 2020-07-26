@@ -31,3 +31,15 @@
 ### Basic lighting
 
 ![](figures/basic-lighting.gif)
+
+### Materials
+
+![](figures/silver.png)
+
+### Lighting maps
+
+![](figures/lighting-map.gif)
+
+### Light casters
+
+![](figures/spotlight.png)
