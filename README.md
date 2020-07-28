@@ -47,3 +47,7 @@
 ### Multiple lights
 
 ![](figures/multiplelight.png)
+
+## Part 3 - Model loading
+
+![](figures/model.png)
