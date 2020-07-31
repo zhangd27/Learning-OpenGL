@@ -51,3 +51,8 @@
 ## Part 3 - Model loading
 
 ![](figures/model.png)
+
+## Part 5 - Advanced lighting
+
+### Blinn-Phong
+![](figures/advanced-lighting.png)
