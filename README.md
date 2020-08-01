@@ -56,3 +56,7 @@
 
 ### Blinn-Phong
 ![](figures/advanced-lighting.png)
+
+### Gamma correction
+
+![](figures/gamma-correction.png)
