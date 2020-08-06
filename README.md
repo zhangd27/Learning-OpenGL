@@ -60,3 +60,6 @@
 ### Gamma correction
 
 ![](figures/gamma-correction.png)
+
+### Shadow
+![](figures/shadow.png)
