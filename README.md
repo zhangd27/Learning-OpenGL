@@ -63,3 +63,6 @@
 
 ### Shadow
 ![](figures/shadow.png)
+
+### Normal mapping
+![](figures/normal_mapping.png)
