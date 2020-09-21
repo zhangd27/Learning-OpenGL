@@ -26,43 +26,49 @@
 
 ### Color
 
-![](figures/colors.png)
+![](screen-shot/colors.png)
 
 ### Basic lighting
 
-![](figures/basic-lighting.gif)
+![](screen-shot/basic-lighting.gif)
 
 ### Materials
 
-![](figures/silver.png)
+![](screen-shot/silver.png)
 
 ### Lighting maps
 
-![](figures/lighting-map.gif)
+![](screen-shot/lighting-map.gif)
 
 ### Light casters
 
-![](figures/spotlight.png)
+![](screen-shot/spotlight.png)
 
 ### Multiple lights
 
-![](figures/multiplelight.png)
+![](screen-shot/multiplelight.png)
 
 ## Part 3 - Model loading
 
-![](figures/model.png)
+![](screen-shot/model.png)
 
 ## Part 5 - Advanced lighting
 
 ### Blinn-Phong
-![](figures/advanced-lighting.png)
+![](screen-shot/advanced-lighting.png)
 
 ### Gamma correction
 
-![](figures/gamma-correction.png)
+![](screen-shot/gamma-correction.png)
 
 ### Shadow
-![](figures/shadow.png)
+![](screen-shot/shadow.png)
 
 ### Normal mapping
-![](figures/normal_mapping.png)
+![](screen-shot/normal_mapping.png)
+
+## Part 6 - PBR
+
+### Lighting
+
+![](screen-shot/pbr-brdf.png)
